@@ -1,11 +1,8 @@
 <br />
 <p align="center">
   <a href="https://github.com/DenoXen/znXen">
-    <img src="/text.png" alt="Logo" width="80" height="80">
+    <img src="/text.png" alt="Logo" width="320" height="100">
   </a>
-
-  <h3 align="center">znXen</h3>
-
   <p align="center">
     Geometry Dash Modder
     <br />
