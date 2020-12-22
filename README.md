@@ -1,7 +1,7 @@
-]<br />
+<br />
 <p align="center">
   <a href="https://github.com/DenoXen/znXen">
-    <img src="assets/text.png" alt="Logo" width="80" height="80">
+    <img src="/text.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">znXen</h3>
