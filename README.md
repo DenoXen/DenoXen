@@ -4,7 +4,7 @@
     <img src="/text.png" alt="Logo" width="320" height="100">
   </a>
   <p align="center">
-    Geometry Dash Modder
+    Geometry Dash Player
     <br />
     <a href="https://github.com/DenoXen?tab=repositories"><strong>Repositories »</strong></a>
     <br />
